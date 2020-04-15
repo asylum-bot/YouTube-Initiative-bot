@@ -1,0 +1,4 @@
+matplotlib
+google_api_python_client
+js2py
+praw
